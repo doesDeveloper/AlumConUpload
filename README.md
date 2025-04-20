@@ -98,5 +98,7 @@ The registration page includes a login section and a form to collect the followi
 - Highlight career milestones, certifications, awards, and other achievements
 - Organized tabs/sections within profiles
 
+### 8. **Mobile UI Support
+- Fully responsive website
 ---
 
